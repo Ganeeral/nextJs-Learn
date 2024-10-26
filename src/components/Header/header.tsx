@@ -12,11 +12,11 @@ const Header = () => {
           <Link className="text-[#0009EA]" href="#">
             О нас
           </Link>
-          <Link className="text-black" href="#">
+          <Link className="text-black" href="/catalog">
             Каталог
           </Link>
-          <Link className="text-black" href="#">
-            Где нас найти
+          <Link className="text-black" href="/users">
+            Пользователи
           </Link>
         </div>
 
