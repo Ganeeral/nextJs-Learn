@@ -11,6 +11,7 @@ const products = [
     title: "Держатель для телефона автомобильный телескопический раздвижной",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
     price: "444 ₽",
+    stock: 5
   },
   {
     id: "2",
@@ -18,6 +19,7 @@ const products = [
     title: "Другой продукт",
     description: "Описание другого продукта.",
     price: "555 ₽",
+    stock: 0
   },
 ];
 
